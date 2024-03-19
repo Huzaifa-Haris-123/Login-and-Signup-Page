@@ -1,0 +1,65 @@
+
+.mainBox{
+    background-image:linear-gradient(to right ,skyblue 35%,rgb(231, 13, 231));
+}
+
+
+.menuBox{
+background-color: white;
+margin-left: 28%;
+margin-right: 28%;
+margin-top: 5%;
+border-radius: 2.5%;
+/* text-align: center; */
+font-weight: bolder;
+font-size: xx-large;
+padding-top: 05%;
+height: auto;
+}
+
+
+.loginHeading{
+    padding-left: 240px;
+}
+/* .lowerButton:hover {
+    background-color: #ff6600;
+    color: white;
+  } */
+.inputBox{
+    border-top: 0px ;  border-left: 0px; border-right: 0px;
+    padding-left: 5%;
+    border-color: rgb(206, 204, 204);
+    font-family: Edu SA Beginner ;
+    font-size: large;
+    padding-bottom: 3%;
+    padding-top: 5%;
+    width: 100%;
+    text-align:middle;
+}
+.content{
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: large;
+}
+.bttn{
+   background-image: linear-gradient(to right ,rgb(89, 165, 196) 35%,rgb(231, 85, 231));
+    width: 100%;
+    color: white;
+    font-family: Edu SA Beginner ;
+    font-size: large;
+    height: 40px;
+    text-align: center;
+    border-radius: 10vh;
+    cursor: pointer;
+    border: 0;
+    
+}
+.lowerButton{
+    border: 0px;
+    background-color: white;
+    font-family: Edu SA Beginner ;
+    font-size: large;
+    cursor: pointer;
+    margin-left: 42%;
+}
+
